@@ -1,0 +1,69 @@
+Script started on 2022-03-06 23:52:36+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;marcosparalelo@LAPTOP-7E3L8DO3: /mnt/c/WINDOWS/system32/paralela/practica1[01;32mmarcosparalelo@LAPTOP-7E3L8DO3[00m:[01;34m/mnt/c/WINDOWS/system32/paralela/practica1[00m$ python3 practica1.tx[K[Kpy
+Producer0 produced 11
+Producer1 produced 12
+Producer2 produced 11
+Taking value 11 from Producer0
+Producer0 produced 26
+Taking value 11 from Producer2
+Producer2 produced 27
+Taking value 12 from Producer1
+Producer1 produced 17
+Taking value 17 from Producer1
+Producer1 produced 28
+Taking value 26 from Producer0
+Producer0 produced 32
+Taking value 27 from Producer2
+Producer2 produced 31
+Taking value 28 from Producer1
+Producer1 produced 40
+Taking value 31 from Producer2
+Producer2 produced 42
+Taking value 32 from Producer0
+Producer0 produced 50
+Taking value 40 from Producer1
+Producer1 produced 44
+Taking value 42 from Producer2
+Producer2 produced 51
+Taking value 44 from Producer1
+Producer1 produced 59
+Taking value 50 from Producer0
+Producer0 produced 54
+Taking value 51 from Producer2
+Producer2 produced 69
+Taking value 54 from Producer0
+Producer0 produced 72
+Taking value 59 from Producer1
+Producer1 produced 74
+Taking value 69 from Producer2
+Producer2 produced 72
+Taking value 72 from Producer0
+Producer0 produced 84
+Taking value 72 from Producer2
+Producer2 produced 85
+Taking value 74 from Producer1
+Producer1 produced 79
+Taking value 79 from Producer1
+Producer1 produced 96
+Taking value 84 from Producer0
+Producer0 produced 87
+Taking value 85 from Producer2
+Producer2 produced 92
+Taking value 87 from Producer0
+Producer0 produced 97
+Taking value 92 from Producer2
+Producer2 produced 111
+Taking value 96 from Producer1
+Producer1 produced 105
+Taking value 97 from Producer0
+Producer0 produced 105
+Taking value 105 from Producer0
+Producer0 produced 125
+Taking value 105 from Producer1
+Producer1 produced 110
+Taking value 111 from Producer2
+Producer2 produced 127
+[11, 11, 12, 17, 26, 27, 28, 31, 32, 40, 42, 44, 50, 51, 54, 59, 69, 72, 72, 74, 79, 84, 85, 87, 92, 96, 97, 105, 105, 111]
+]0;marcosparalelo@LAPTOP-7E3L8DO3: /mnt/c/WINDOWS/system32/paralela/practica1[01;32mmarcosparalelo@LAPTOP-7E3L8DO3[00m:[01;34m/mnt/c/WINDOWS/system32/paralela/practica1[00m$ exit
+
+Script done on 2022-03-06 23:52:56+01:00 [COMMAND_EXIT_CODE="0"]
